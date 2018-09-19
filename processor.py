@@ -49,5 +49,7 @@ def to_gray():
         cv2.imwrite("./positives/{}.jpg".format(pic_num), gray_image)
         pic_num += 1
 
+# opencv_createsamples -img /home/user/logo.png -bg /home/user/bg.txt -info /home/user/annotations.lst -pngoutput -maxxangle 0.1 -maxyangle 0.1 -maxzangle 0.1
+# opencv_createsamples -img watch5050.jpg -bg bg.txt -info info/info.lst -pngoutput info -maxxangle 0.5 -maxyangle 0.5 -maxzangle 0.5 -num 1950
 
-to_gray()
+# TODO Why do the core do the dumb
