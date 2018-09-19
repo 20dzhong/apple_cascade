@@ -1,7 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33e33c1b-2fd7-4bb1-a712-b6f0943584a8" name="Default" comment="" />
+    <list default="true" id="33e33c1b-2fd7-4bb1-a712-b6f0943584a8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/createsamples.pl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/negatives.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/positives.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools/mergevec.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/custom_cascade.iml" afterPath="$PROJECT_DIR$/.idea/custom_cascade.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bg.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/info.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/negative/0.jpg" afterPath="$PROJECT_DIR$/negatives/0.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/1.jpg" afterPath="$PROJECT_DIR$/negatives/1.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/10.jpg" afterPath="$PROJECT_DIR$/negatives/10.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/11.jpg" afterPath="$PROJECT_DIR$/negatives/11.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/12.jpg" afterPath="$PROJECT_DIR$/negatives/12.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/13.jpg" afterPath="$PROJECT_DIR$/negatives/13.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/14.jpg" afterPath="$PROJECT_DIR$/negatives/14.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/15.jpg" afterPath="$PROJECT_DIR$/negatives/15.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/16.jpg" afterPath="$PROJECT_DIR$/negatives/16.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/17.jpg" afterPath="$PROJECT_DIR$/negatives/17.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/18.jpg" afterPath="$PROJECT_DIR$/negatives/18.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/19.jpg" afterPath="$PROJECT_DIR$/negatives/19.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/2.jpg" afterPath="$PROJECT_DIR$/negatives/2.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/20.jpg" afterPath="$PROJECT_DIR$/negatives/20.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/21.jpg" afterPath="$PROJECT_DIR$/negatives/21.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/22.jpg" afterPath="$PROJECT_DIR$/negatives/22.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/23.jpg" afterPath="$PROJECT_DIR$/negatives/23.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/24.jpg" afterPath="$PROJECT_DIR$/negatives/24.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/25.jpg" afterPath="$PROJECT_DIR$/negatives/25.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/26.jpg" afterPath="$PROJECT_DIR$/negatives/26.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/27.jpg" afterPath="$PROJECT_DIR$/negatives/27.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/28.jpg" afterPath="$PROJECT_DIR$/negatives/28.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/29.jpg" afterPath="$PROJECT_DIR$/negatives/29.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/3.jpg" afterPath="$PROJECT_DIR$/negatives/3.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/30.jpg" afterPath="$PROJECT_DIR$/negatives/30.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/31.jpg" afterPath="$PROJECT_DIR$/negatives/31.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/32.jpg" afterPath="$PROJECT_DIR$/negatives/32.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/33.jpg" afterPath="$PROJECT_DIR$/negatives/33.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/34.jpg" afterPath="$PROJECT_DIR$/negatives/34.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/35.jpg" afterPath="$PROJECT_DIR$/negatives/35.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/36.jpg" afterPath="$PROJECT_DIR$/negatives/36.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/37.jpg" afterPath="$PROJECT_DIR$/negatives/37.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/38.jpg" afterPath="$PROJECT_DIR$/negatives/38.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/39.jpg" afterPath="$PROJECT_DIR$/negatives/39.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/4.jpg" afterPath="$PROJECT_DIR$/negatives/4.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/40.jpg" afterPath="$PROJECT_DIR$/negatives/40.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/41.jpg" afterPath="$PROJECT_DIR$/negatives/41.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/42.jpg" afterPath="$PROJECT_DIR$/negatives/42.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/43.jpg" afterPath="$PROJECT_DIR$/negatives/43.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/44.jpg" afterPath="$PROJECT_DIR$/negatives/44.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/45.jpg" afterPath="$PROJECT_DIR$/negatives/45.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/46.jpg" afterPath="$PROJECT_DIR$/negatives/46.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/47.jpg" afterPath="$PROJECT_DIR$/negatives/47.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/48.jpg" afterPath="$PROJECT_DIR$/negatives/48.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/49.jpg" afterPath="$PROJECT_DIR$/negatives/49.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/5.jpg" afterPath="$PROJECT_DIR$/negatives/5.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/6.jpg" afterPath="$PROJECT_DIR$/negatives/6.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/7.jpg" afterPath="$PROJECT_DIR$/negatives/7.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/8.jpg" afterPath="$PROJECT_DIR$/negatives/8.jpg" />
+      <change beforePath="$PROJECT_DIR$/negative/9.jpg" afterPath="$PROJECT_DIR$/negatives/9.jpg" />
+      <change beforePath="$PROJECT_DIR$/processor.py" afterPath="$PROJECT_DIR$/processor.py" />
+      <change beforePath="$PROJECT_DIR$/sample/0.jpg" afterPath="$PROJECT_DIR$/positives/0.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/1.jpg" afterPath="$PROJECT_DIR$/positives/1.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/10.jpg" afterPath="$PROJECT_DIR$/positives/10.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/11.jpg" afterPath="$PROJECT_DIR$/positives/11.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/12.jpg" afterPath="$PROJECT_DIR$/positives/12.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/13.jpg" afterPath="$PROJECT_DIR$/positives/13.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/14.jpg" afterPath="$PROJECT_DIR$/positives/14.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/15.jpg" afterPath="$PROJECT_DIR$/positives/15.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/16.jpg" afterPath="$PROJECT_DIR$/positives/16.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/17.jpg" afterPath="$PROJECT_DIR$/positives/17.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/18.jpg" afterPath="$PROJECT_DIR$/positives/18.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/19.jpg" afterPath="$PROJECT_DIR$/positives/19.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/2.jpg" afterPath="$PROJECT_DIR$/positives/2.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/20.jpg" afterPath="$PROJECT_DIR$/positives/20.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/21.jpg" afterPath="$PROJECT_DIR$/positives/21.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/22.jpg" afterPath="$PROJECT_DIR$/positives/22.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/23.jpg" afterPath="$PROJECT_DIR$/positives/23.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/24.jpg" afterPath="$PROJECT_DIR$/positives/24.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/25.jpg" afterPath="$PROJECT_DIR$/positives/25.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/26.jpg" afterPath="$PROJECT_DIR$/positives/26.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/27.jpg" afterPath="$PROJECT_DIR$/positives/27.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/28.jpg" afterPath="$PROJECT_DIR$/positives/28.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/29.jpg" afterPath="$PROJECT_DIR$/positives/29.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/3.jpg" afterPath="$PROJECT_DIR$/positives/3.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/30.jpg" afterPath="$PROJECT_DIR$/positives/30.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/31.jpg" afterPath="$PROJECT_DIR$/positives/31.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/32.jpg" afterPath="$PROJECT_DIR$/positives/32.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/33.jpg" afterPath="$PROJECT_DIR$/positives/33.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/34.jpg" afterPath="$PROJECT_DIR$/positives/34.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/35.jpg" afterPath="$PROJECT_DIR$/positives/35.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/36.jpg" afterPath="$PROJECT_DIR$/positives/36.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/37.jpg" afterPath="$PROJECT_DIR$/positives/37.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/38.jpg" afterPath="$PROJECT_DIR$/positives/38.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/39.jpg" afterPath="$PROJECT_DIR$/positives/39.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/4.jpg" afterPath="$PROJECT_DIR$/positives/4.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/40.jpg" afterPath="$PROJECT_DIR$/positives/40.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/41.jpg" afterPath="$PROJECT_DIR$/positives/41.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/42.jpg" afterPath="$PROJECT_DIR$/positives/42.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/43.jpg" afterPath="$PROJECT_DIR$/positives/43.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/44.jpg" afterPath="$PROJECT_DIR$/positives/44.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/45.jpg" afterPath="$PROJECT_DIR$/positives/45.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/46.jpg" afterPath="$PROJECT_DIR$/positives/46.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/47.jpg" afterPath="$PROJECT_DIR$/positives/47.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/48.jpg" afterPath="$PROJECT_DIR$/positives/48.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/49.jpg" afterPath="$PROJECT_DIR$/positives/49.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/5.jpg" afterPath="$PROJECT_DIR$/positives/5.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/51.jpg" afterPath="$PROJECT_DIR$/positives/51.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/52.jpg" afterPath="$PROJECT_DIR$/positives/52.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/53.jpg" afterPath="$PROJECT_DIR$/positives/53.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/54.jpg" afterPath="$PROJECT_DIR$/positives/54.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/55.jpg" afterPath="$PROJECT_DIR$/positives/55.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/56.jpg" afterPath="$PROJECT_DIR$/positives/56.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/57.jpg" afterPath="$PROJECT_DIR$/positives/57.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/58.jpg" afterPath="$PROJECT_DIR$/positives/58.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/59.jpg" afterPath="$PROJECT_DIR$/positives/59.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/6.jpg" afterPath="$PROJECT_DIR$/positives/6.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/7.jpg" afterPath="$PROJECT_DIR$/positives/7.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/8.jpg" afterPath="$PROJECT_DIR$/positives/8.jpg" />
+      <change beforePath="$PROJECT_DIR$/sample/9.jpg" afterPath="$PROJECT_DIR$/positives/9.jpg" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,22 +133,12 @@
     <SUITE FILE_PATH="coverage/custom_cascade$take_pic.coverage" NAME="take_pic Coverage Results" MODIFIED="1537292635549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="44.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample/44.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="48.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample/48.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="processor.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file leaf-file-name="processor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/processor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="1018">
+              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -36,39 +146,67 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="51.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample/51.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file leaf-file-name="59.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample/59.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/positives/59.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="58.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample/58.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/positives/58.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="57.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample/57.jpg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="49.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/negatives/49.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="56.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample/56.jpg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="positives.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/positives.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="54.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample/54.jpg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="createsamples.pl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/createsamples.pl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="53.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample/53.jpg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="mergevec.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/mergevec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="78" column="57" lean-forward="true" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
+              <folding>
+                <element signature="e#2250#2260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="negatives.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/negatives.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -81,6 +219,8 @@
       <list>
         <option value="$PROJECT_DIR$/take_pic.py" />
         <option value="$PROJECT_DIR$/processor.py" />
+        <option value="$PROJECT_DIR$/bin/createsamples.pl" />
+        <option value="$PROJECT_DIR$/tools/mergevec.py" />
       </list>
     </option>
   </component>
@@ -94,13 +234,22 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1270" />
-    <option name="width" value="1302" />
-    <option name="height" value="1452" />
+    <option name="width" value="1280" />
+    <option name="height" value="1421" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -108,27 +257,24 @@
         <subPane>
           <expand>
             <path>
-              <item name="custom_cascade" type="b2602c69:ProjectViewProjectNode" />
-              <item name="custom_cascade" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="custom_cascade" type="b2602c69:ProjectViewProjectNode" />
-              <item name="custom_cascade" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="apple_cascade" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apple_cascade" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ReBot2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.selected.configurable" value="PERL5_MAIN_SETTINGS" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,7 +290,6 @@
   </component>
   <component name="RunManager">
     <configuration name="take_pic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="custom_cascade" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -155,7 +300,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="custom_cascade" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\Donovan\PycharmProjects\custom_cascade\processor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -163,10 +309,13 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <recent_temporary>
-      <list>
-        <item itemvalue="Python.take_pic" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.take_pic" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -182,29 +331,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="635" y="0" width="651" height="726" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="1421" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3372681" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3895447" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3895447" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3372681" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38762215" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980457" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,164 +373,82 @@
       </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/negative/neg13.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/neg15.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/neg20.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/neg30.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/neg35.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/neg36.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/neg37.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/neg4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/neg8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/neg49.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/neg48.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/neg0.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/28.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/27.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/11.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/13.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/0.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/49.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/46.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/42.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/41.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/33.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/47.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/33.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/negative/5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/7.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/9.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/25.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/22.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/17.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/12.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/0.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/36.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/44.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/50.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/48.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/57.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/51.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/58.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/59.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/56.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/54.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample/53.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/processor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="1018">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/positives/59.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/positives/58.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/negatives/49.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/positives.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/negatives.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/createsamples.pl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/mergevec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="78" column="57" lean-forward="true" selection-start-line="78" selection-start-column="57" selection-end-line="78" selection-end-column="57" />
+          <folding>
+            <element signature="e#2250#2260#0" expanded="true" />
           </folding>
         </state>
       </provider>

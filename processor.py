@@ -18,7 +18,7 @@ def pics():
             break
 
         if cv2.waitKey(1) & 0xFF == ord('a'):
-            path = './sample'
+            path = './positives'
             cv2.imwrite(os.path.join(path, '{}.jpg'.format(num)), frame)
             print("pic" + str(num))
             num += 1
@@ -28,14 +28,14 @@ def pics():
 
 
 def create_pos_n_neg():
-    for file_type in ['negative']:
+    for file_type in ['negatives']:
         for img in os.listdir(file_type):
 
-            if file_type == 'sample':
+            if file_type == 'positives':
                 line = file_type + '/' + img + ' 1 0 0 100 100\n'
                 with open('info.dat', 'a') as f:
                     f.write(line)
-            elif file_type == 'negative':
+            elif file_type == 'negatives':
                 line = file_type + '/' + img + '\n'
                 with open('bg.txt', 'a') as f:
                     f.write(line)
@@ -44,9 +44,9 @@ def create_pos_n_neg():
 def to_gray():
     pic_num = 51
     for i in range(9):
-        img = cv2.imread("./sample/{}.jpg".format(pic_num))
+        img = cv2.imread("./positives/{}.jpg".format(pic_num))
         gray_image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-        cv2.imwrite("./sample/{}.jpg".format(pic_num), gray_image)
+        cv2.imwrite("./positives/{}.jpg".format(pic_num), gray_image)
         pic_num += 1
 
 
